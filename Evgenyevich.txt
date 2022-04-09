@@ -1,1 +1,3 @@
-Ok geniy
+<<<<<<< HEAD
+Evgenyevich A
+>>>>>>> newdev
